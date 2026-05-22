@@ -262,24 +262,100 @@ especially in regions with limited medical resources.
 
 ---
 
-# 👨‍💻 Contributors
-
-| Name | Contribution |
-|---|---|
-| **Ampa Ranjan** | Research, Documentation, Analysis |
-| **Milan** | Model Development & Implementation |
-| **Mayank** | Dataset Processing & Experimental Support |
+# 👨‍💻 Contributors & Individual Contributions
 
 ---
 
-# 🌐 GitHub Contributors
+## 🔹 Ampa Ranjan  
+### 📌 Research, Experimental Evaluation, Explainable AI & Documentation
 
-### 🔗 Milan
+### 🔬 Technical Contributions
+- Worked on the complete data preprocessing pipeline for the Monkeypox skin lesion dataset containing 5,799 medical images.
+- Implemented image normalization and augmentation techniques to improve model generalization and reduce overfitting.
+- Contributed to the experimental evaluation and performance analysis of the hybrid deep learning architecture.
+- Worked on Explainable AI (XAI) implementation using Grad-CAM heatmaps to visualize model decision-making and lesion attention regions.
+- Assisted in validating the effectiveness of the dual-branch architecture in identifying subtle lesion patterns and improving sensitivity.
+
+### 📊 Research Findings
+- Observed that the hybrid architecture achieved high sensitivity and reliable classification performance for Monkeypox detection.
+- Contributed to the interpretation of Grad-CAM visualizations which demonstrated meaningful lesion-focused attention by the model.
+
+### 📝 Documentation Contributions
+- Prepared the Result Analysis and References sections of the project report.
+- Designed high-resolution architectural diagrams, Precision-Recall plots, Correlation graphs, and result visualization figures used in the final documentation.
+
+### 🎤 Presentation & Demonstration Contributions
+- Designed and structured the project presentation slides.
+- Prepared visual explanation materials for experimental results and model evaluation.
+- Organized the Results and Discussion section during the project presentation and demonstration.
+
+---
+
+## 🔹 Milan Mipsita Jena  
+### 📌 Research Design, Dataset Management & Evaluation Framework
+
+### 🔬 Technical Contributions
+- Conducted a systematic literature review to analyze existing Monkeypox detection approaches and identify research gaps.
+- Managed dataset curation and preprocessing workflows for 5,799 medical images.
+- Ensured class balancing and dataset suitability for 5-fold stratified cross-validation.
+- Assisted in defining the training and evaluation strategy to improve model consistency and reduce false negatives.
+- Contributed to the overall experimental methodology and evaluation framework.
+
+### 📊 Research Findings
+- Helped establish the need for a hybrid architecture combining VGG16 and EfficientNetB4 for improved feature extraction and classification reliability.
+- Contributed to improving model stability through structured validation methodology.
+
+### 📝 Documentation Contributions
+- Drafted:
+  - Chapter 1 – Introduction
+  - Chapter 2 – Literature Review
+  - Chapter 4 – Materials and Methods
+  - Chapter 5 – Research Gap
+  - Chapter 8 – Result Analysis
+  - Chapter 9 – Conclusion
+- Managed overall report integration, formatting, consistency, and plagiarism compliance.
+
+### 🎤 Presentation & Demonstration Contributions
+- Prepared presentation slides covering:
+  - research background
+  - problem statement
+  - methodology overview
+  - future scope
+- Assisted in organizing the project demonstration workflow.
+
+### 🌐 GitHub
 GitHub:  
 https://github.com/Milan-corespace
 
-### 🔗 Mayank
-GitHub link will be added soon.
+---
+
+## 🔹 Mayank Gupta  
+### 📌 Hybrid Architecture Development, Feature Fusion & Model Optimization
+
+### 🔬 Technical Contributions
+- Contributed to the development of the hybrid deep learning architectural framework.
+- Worked on integrating VGG16 and EfficientNetB4 dual-stream feature extraction branches.
+- Configured Squeeze-and-Excitation (SE) channel attention modules for improved feature refinement.
+- Assisted in implementing the attention-based feature fusion layer for combining multi-branch outputs.
+- Contributed to the multi-stage training pipeline and 5-fold stratified cross-validation framework to ensure robust model performance.
+- Participated in optimizing training stability and minimizing false negatives.
+
+### 📊 Research Findings
+- Observed that the fusion-level attention mechanism effectively reconciled feature representations from both architectures.
+- Contributed to achieving high model accuracy and strong classification consistency.
+
+### 📝 Documentation Contributions
+- Assisted in documenting:
+  - Chapter 6 – Implementation
+  - Chapter 7 – Standards Adopted
+- Prepared algorithmic flowcharts and technical descriptions related to model optimization and backend architecture.
+
+### 🎤 Presentation & Demonstration Contributions
+- Prepared presentation slides explaining:
+  - hybrid model architecture
+  - backend processing
+  - logical data flow
+- Assisted in organizing software demonstrations and technical workflow presentations.
 
 ---
 
@@ -288,7 +364,7 @@ GitHub link will be added soon.
 ## ⚠️ All Rights Reserved
 
 Copyright © 2026  
-Ampa Ranjan, Milan, and Mayank
+Ampa Ranjan, Milan Mipsita Jena, and Mayank Gupta
 
 This repository and all associated files including:
 
@@ -313,6 +389,19 @@ This repository is intended strictly for:
 ✅ academic  
 ✅ research  
 ✅ portfolio purposes  
+
+---
+
+# 📬 Contact Information
+
+## 🔹 Ampa Ranjan
+KIIT University
+
+## 🔹 Milan Mipsita Jena
+GitHub:  
+https://github.com/Milan-corespace
+
+## 🔹 Mayank Gupta
 
 ---
 
