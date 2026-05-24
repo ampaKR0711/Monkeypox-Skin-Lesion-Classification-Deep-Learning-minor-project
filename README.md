@@ -359,8 +359,8 @@ https://github.com/Milan-corespace
 
 ---
 
-# 🤝 Research Collaboration & Open Innovation
-
+# 🤝 Research Collaboration & Open Innovation 
+⭐ Continuous Improvements for Research Collaboration
 This project reflects collaborative research efforts in the intersection of:
 
 - 🧠 Artificial Intelligence
